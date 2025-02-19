@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    background: green;
+}
+
+.header {
+    background: #fff;;
+    height: 56px;
+}
+
+.height {
+    height: 56px;
+}
+.micro {
+    background: #ccc;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+
+
+
+
+
+
+<div class="recommended-video mb-3">
+                <iframe width="200" height="100" src="https://www.youtube.com/embed/aPO5JaShu2U?si=foictdTdQangKyD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <div>
+                    <h6 class="recommended-info"><b>Brick Technology</b></h6>
+                    <h6 class="text-muted">MEZAPU</h6>
+                    <h6 class="text-muted">46 037 215 просмотров</h6>
+                </div>
+            </div>
+            <div class="recommended-video">
+                <iframe width="200" height="100" src="https://www.youtube.com/embed/oJYsWwgv-4A?si=knlnPSU2d0f2zsNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <div>
+                    <h6 class="recommended-info"><b>Мемы, которые я нашел в 3 часа ночи</b></h6>
+                    <h6 class="text-muted">Andre Sae 2.0</h6>
+                    <h6 class="text-muted">10 334 796 просмотров</h6>
+                </div>
+            </div>
